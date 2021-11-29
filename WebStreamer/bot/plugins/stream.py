@@ -1,5 +1,5 @@
 
-# (c) @Avishkarpatil 
+# (c) @ThorXdshow 
 
 import asyncio
 from WebStreamer.bot import StreamBot
