@@ -15,7 +15,7 @@
   "repository": "https://github.com/ThorXdshow/FileStreamBot/",
   "success_url": "/",
   "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.me",
+  "website": "https://t.me/ThorXdshow",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
