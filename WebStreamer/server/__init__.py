@@ -1,4 +1,4 @@
-# © Avishkar Patil [ @AvishkarPatil ] [ Telegram ]
+# © ThorXdshow [ @ThorXdshow ] [ Telegram ]
 # Coding : Jyothis Jayanth [@EverythingSuckz]
 
 from aiohttp import web
